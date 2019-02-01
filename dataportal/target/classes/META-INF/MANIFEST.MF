@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dataportal
+Implementation-Version: 2.1.0
+Built-By: Administrator
+Implementation-Vendor-Id: com.boedq
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dataportal
+Created-By: Maven Integration for Eclipse
+
